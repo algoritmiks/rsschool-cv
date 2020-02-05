@@ -25,3 +25,7 @@ Python: [EXIFsort](https://github.com/algoritmiks/EXIF-sort)
 - React
 - Python
 - English (school education and self education)
+
+## Education
+JavaScript: The Definitive Guide (D.Flanagan)
+JS courses at http://learn.js.ru, https://hexlet.io/ (Front-end)
