@@ -18,3 +18,10 @@ React: [SocialNetwork](https://github.com/algoritmiks/social-network) (in progre
 JS: [Mall's landing](https://github.com/algoritmiks/gorkogo55-landing) (open source project)
 Python: [EXIFsort](https://github.com/algoritmiks/EXIF-sort)
 
+## Technical Skills
+- HTML
+- CSS
+- JS
+- React
+- Python
+- English (school education and self education)
